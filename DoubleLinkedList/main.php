@@ -22,3 +22,10 @@ var_dump($linked->shift());
 var_dump($linked->shift());
 var_dump($linked->shift());
 var_dump($linked->shift());
+
+//output
+//string(1) "1"
+//string(1) "2"
+//string(1) "3"
+//string(1) "4"
+//string(1) "5"
