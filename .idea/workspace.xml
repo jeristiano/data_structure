@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf11b75-b9c9-4f05-a04b-f6e9080b9752" name="Default Changelist" comment="双向链表 doubleLinkedList">
+    <list default="true" id="caf11b75-b9c9-4f05-a04b-f6e9080b9752" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/QuickSort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/SelectionSort.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoubleLinkedList/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/DoubleLinkedList/main.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +36,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SelectionSort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\SelectionSort" />
+      <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\QuickSort" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure" />
+      <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\QuickSort\SelectionSort" />
+      <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\DoubleLinkedList" />
+      <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\QuickSort" />
+      <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\DoubleLinkedList\QuickSort" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.SelectionSort.php">
+    <configuration name="SelectionSort.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/SelectionSort/SelectionSort.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="Ubuntu 20.04" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
     <configuration name="main.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DoubleLinkedList/main.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -55,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.SelectionSort.php" />
         <item itemvalue="PHP Script.main.php" />
       </list>
     </recent_temporary>
@@ -67,8 +88,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602655320931</updated>
-      <workItem from="1602655322266" duration="343000" />
+      <workItem from="1602655322266" duration="4196000" />
+      <workItem from="1603692663320" duration="5506000" />
     </task>
+    <task id="LOCAL-00001" summary="双向链表 doubleLinkedList">
+      <created>1602655676088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602655676088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,9 +109,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="双向链表 doubleLinkedList" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="8" key="CommitChangelistDialog2" timestamp="1602655431322">
+    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1602655674254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="8" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602655431322" />
+    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602655674254" />
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1603695155234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603695155234" />
+    <state width="1877" height="356" key="GridCell.Tab.0.center" timestamp="1603695155233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603695155233" />
+    <state width="1877" height="356" key="GridCell.Tab.0.left" timestamp="1603695155233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603695155233" />
+    <state width="1877" height="356" key="GridCell.Tab.0.right" timestamp="1603695155233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603695155233" />
+    <state x="774" y="438" key="NewPhpFileDialog" timestamp="1603692685565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="438" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603692685565" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1602655679772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602655679772" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603694836617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603694836617" />
   </component>
 </project>
