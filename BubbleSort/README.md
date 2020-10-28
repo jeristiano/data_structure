@@ -10,4 +10,8 @@
 
 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
 
-> 算法时间复杂度O(n2)
+2. 动画
+
+![text](https://www.runoob.com/wp-content/uploads/2019/03/bubbleSort.gif)
+
+> 算法时间复杂度O(n2)，最好复杂度O(n),算法稳定
