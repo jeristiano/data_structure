@@ -7,15 +7,15 @@ function bubbleSort ($arr)
 {
     $length = count($arr);
 
-    for ($i = $length-1; $i > 0; $i--) {
+    for ($i = $length - 1; $i > 0; $i--) {
         //两个元素比较，大小交换
         for ($j = 0; $j < $i; $j++) {
             if ($arr[$j] > $arr[$j + 1]) {
                 $arr = swap($arr, $j, $j + 1);
             }
 
-
         }
+
         echo "第{$i}次循环后,数组内容为:";
         printLoop($arr);
     }
@@ -43,7 +43,7 @@ function swap ($arr, $i, $j)
     $temp = $arr[$i];
     $arr[$i] = $arr[$j];
     $arr[$j] = $temp;
-    return $arr; //
+    return $arr;
 }
 
 $arr = [3, 5, 7, 4, 9, 1, 2, 8];

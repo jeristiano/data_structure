@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf11b75-b9c9-4f05-a04b-f6e9080b9752" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BubbleSort/main1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BubbleSort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/main.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\QuickSort" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.main.php (1)">
+  <component name="RunManager" selected="PHP Script.main2.php">
     <configuration name="SelectionSort.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/SelectionSort/SelectionSort.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -64,7 +66,15 @@
       </CommandLine>
       <method v="2" />
     </configuration>
-    <configuration name="main.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BubbleSort/main.php">
+    <configuration name="main2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BubbleSort/main2.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="Ubuntu 20.04" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="main.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BubbleSort/main1.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="Ubuntu 20.04" />
@@ -82,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.main2.php" />
         <item itemvalue="PHP Script.main.php (1)" />
         <item itemvalue="PHP Script.SelectionSort.php" />
         <item itemvalue="PHP Script.main.php" />
@@ -98,7 +109,7 @@
       <updated>1602655320931</updated>
       <workItem from="1602655322266" duration="4196000" />
       <workItem from="1603692663320" duration="5644000" />
-      <workItem from="1603778893596" duration="4486000" />
+      <workItem from="1603778893596" duration="9219000" />
     </task>
     <task id="LOCAL-00001" summary="双向链表 doubleLinkedList">
       <created>1602655676088</created>
@@ -128,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603854423629</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="冒泡排序">
+      <created>1603854646979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603854646979</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,34 +159,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="冒泡排序" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1603854421677">
+    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1603854645360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603854421677" />
-    <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1603854242224">
+    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603854645360" />
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom" timestamp="1603862819711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603854242224" />
-    <state width="1877" height="356" key="GridCell.Tab.0.center" timestamp="1603854242224">
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603862819711" />
+    <state width="1877" height="316" key="GridCell.Tab.0.center" timestamp="1603862819711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603854242224" />
-    <state width="1877" height="356" key="GridCell.Tab.0.left" timestamp="1603854242224">
+    <state width="1877" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603862819711" />
+    <state width="1877" height="316" key="GridCell.Tab.0.left" timestamp="1603862819711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603854242224" />
-    <state width="1877" height="356" key="GridCell.Tab.0.right" timestamp="1603854242224">
+    <state width="1877" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603862819711" />
+    <state width="1877" height="316" key="GridCell.Tab.0.right" timestamp="1603862819711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603854242224" />
+    <state width="1877" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603862819711" />
     <state x="774" y="438" key="NewPhpFileDialog" timestamp="1603852063685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="774" y="438" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603852063685" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603854429988">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603854649270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603854429988" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603854649270" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603694836617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
