@@ -43,7 +43,7 @@ function swap ($arr, $i, $j)
     $temp = $arr[$i];
     $arr[$i] = $arr[$j];
     $arr[$j] = $temp;
-    return $arr;
+    return $arr; //
 }
 
 $arr = [3, 5, 7, 4, 9, 1, 2, 8];
