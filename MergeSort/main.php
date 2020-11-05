@@ -31,6 +31,7 @@ function mergeSort (array &$arr, int $start, int $end)
     //left
     mergeSort($arr, $start, $middle);
     mergeSort($arr, $middle + 1, $end);
+    //一遍递归后,形成最小的不可分割元素,做出对比然后合并
     mergeArray($arr, $start, $middle, $end);
     return $arr;
 }
