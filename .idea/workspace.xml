@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf11b75-b9c9-4f05-a04b-f6e9080b9752" name="Default Changelist" comment="插入排序">
-      <change afterPath="$PROJECT_DIR$/CountSort/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountSort/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RedixSort/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RedixSort/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RedixSort/redixSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RedixSort/sort.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountSort/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/CountSort/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +25,18 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Ubuntu 20.04" />
   <component name="ProjectId" id="1irAQTHyphhTpQvn8057Qzumt3v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,14 +46,18 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/QuickSort" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,8 +73,14 @@
       <recent name="\\wsl$\Ubuntu-20.04\data\webroot\www\annabelle\data_structure\QuickSort" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.main.php">
+  <component name="RunManager" selected="PHP Script.main.php (3)">
     <configuration name="main.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/data_structure/CountSort/main.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="redixSort.js" type="NodeJSConfigurationType" temporary="true" path-to-node="D:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="redixSort.js" working-dir="$PROJECT_DIR$/RedixSort">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser start="true" with-js-debugger="true" />
+      </EXTENSION>
       <method v="2" />
     </configuration>
     <configuration name="main.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/QuickSort/main.php">
@@ -76,36 +99,23 @@
       </CommandLine>
       <method v="2" />
     </configuration>
-    <configuration name="main.php (4)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MergeSort/main.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="Ubuntu 20.04" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
-      <method v="2" />
-    </configuration>
-    <configuration name="main.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ShellSort/main.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="Ubuntu 20.04" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
+    <configuration name="main.php (3)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/RedixSort/main.php">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.main.php" />
-      <item itemvalue="PHP Script.main.php" />
+      <item itemvalue="Node.js.redixSort.js" />
       <item itemvalue="PHP Script.main.php (1)" />
       <item itemvalue="PHP Script.main.php (2)" />
-      <item itemvalue="PHP Script.main.php (4)" />
+      <item itemvalue="PHP Script.main.php (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.main.php (3)" />
+        <item itemvalue="Node.js.redixSort.js" />
         <item itemvalue="JavaScript Debug.main.php" />
         <item itemvalue="PHP Script.main.php (2)" />
         <item itemvalue="PHP Script.main.php (1)" />
-        <item itemvalue="PHP Script.main.php (4)" />
-        <item itemvalue="PHP Script.main.php" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +132,8 @@
       <workItem from="1603778893596" duration="31903000" />
       <workItem from="1604547521598" duration="5405000" />
       <workItem from="1604557341670" duration="2060000" />
-      <workItem from="1604888480206" duration="6159000" />
+      <workItem from="1604888480206" duration="8893000" />
+      <workItem from="1604986287668" duration="6755000" />
     </task>
     <task id="LOCAL-00001" summary="双向链表 doubleLinkedList">
       <created>1602655676088</created>
@@ -187,54 +198,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="插入排序" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="161" key="#Plugins" timestamp="1604557365645">
+    <state x="644" y="72" width="660" height="896" key="#PHP" timestamp="1604971736193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1604557365645" />
+    <state x="644" y="72" width="660" height="896" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604971736193" />
+    <state x="552" y="161" key="#Plugins" timestamp="1604986657520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1604986657520" />
     <state x="738" y="219" key="#Web_Browsers" timestamp="1604904951211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="219" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1604904951211" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604904968714">
+    <state x="414" y="175" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604988957929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604904968714" />
+    <state x="414" y="175" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604988957929" />
     <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604557230036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604557230036" />
-    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1604556289591">
+    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1604906508486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604556289591" />
+    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604906508486" />
     <state x="739" y="260" key="FileChooserDialogImpl" timestamp="1604904954352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604904954352" />
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1604904933094">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1604993770776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604904933094" />
-    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1604904933094">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604993770776" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1604993770776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604904933094" />
-    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1604904933094">
+    <state width="1877" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604993770776" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1604993770776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604904933094" />
-    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1604904933094">
+    <state width="1877" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604993770776" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1604993770776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604904933094" />
-    <state x="774" y="438" key="NewPhpFileDialog" timestamp="1604902079238">
+    <state width="1877" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604993770776" />
+    <state x="774" y="438" key="NewPhpFileDialog" timestamp="1604985724411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="774" y="438" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604902079238" />
+    <state x="774" y="438" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604985724411" />
+    <state x="453" y="164" key="SettingsEditor" timestamp="1604907744771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604907744771" />
     <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603863032272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603863032272" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604988912439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604988912439" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603694836617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
